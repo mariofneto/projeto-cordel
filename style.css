@@ -43,7 +43,7 @@ header {
 
 header > h1 {
     padding-top: 50px;
-    font-size: 10vh;
+    font-size: 10vw;
     font-variant: small-caps;
     font-family: 'Passion One', cursive;
     
@@ -51,7 +51,7 @@ header > h1 {
 
 header > p {
     padding-bottom: 50px ;
-    font-size: 3vh;
+    font-size: 1em;
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
@@ -80,6 +80,7 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
+    font-size: 1.8vw;
 }
 
 section.normal {
@@ -95,7 +96,8 @@ section.imagem {
 }
 
 section.imagem > p {
-    width: 400px;
+    display: inline-block;
+    padding: 5px;
     background-color: rgba(0, 0, 0, 0.205);
 
 }
