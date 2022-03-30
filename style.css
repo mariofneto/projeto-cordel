@@ -4,6 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap'); /* essa é a fonte do texto */
 
+
 /* e a fonte do rodapé é VERDANA */
 
 
@@ -17,9 +18,7 @@
     
 
     
-}
-
-    
+}   
 
 
 
@@ -37,7 +36,7 @@ header {
 
 
 header > h1 {
-    font-size: 4em;
+    font-size: 10vh;
     font-family: 'Passion One', cursive;
     margin-bottom: 20px;
     
